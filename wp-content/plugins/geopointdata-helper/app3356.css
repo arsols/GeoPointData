@@ -1,0 +1,4 @@
+.shop_table .product-name .variation{ font-weight: normal; font-size: 14px; text-align: left;}
+.shop_table .product-name{text-align: left !important;font-size: 18px; font-weight: bold;}
+.shop_table .product-name p{margin-bottom: 0px;}
+.shop_table .product-name .variation br { display: none; }

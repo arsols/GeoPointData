@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26.035" height="18.278" viewBox="0 0 26.035 18.278">
+    <defs>
+        <style>
+            .cls-1{fill:#313131;stroke:#fff;stroke-width:.3px}
+        </style>
+    </defs>
+    <g id="noun_debit_card_2771044" data-name="noun_debit card_2771044" transform="translate(-2.85 -9.18)">
+        <g id="_31-credit_card" data-name="31-credit card" transform="translate(3 9.33)">
+            <path id="Path_9" d="M28.122 9.33H3.613A.613.613 0 0 0 3 9.943V26.7a.613.613 0 0 0 .613.613h24.51a.613.613 0 0 0 .613-.613V9.943a.613.613 0 0 0-.614-.613zm-23.9 5.031H27.51v1.305H4.225zm23.288-3.806v2.58H4.225v-2.58zM4.225 26.082v-9.191H27.51v9.191z" class="cls-1" data-name="Path 9" transform="translate(-3 -9.33)"/>
+            <path id="Path_10" d="M34.226 28.13a2.138 2.138 0 0 0-1.281.435 2.145 2.145 0 0 0-1.287-.435 2.169 2.169 0 1 0 0 4.338 2.145 2.145 0 0 0 1.287-.435 2.138 2.138 0 0 0 1.281.435 2.169 2.169 0 0 0 0-4.338zm-2.586 3.113a.944.944 0 1 1 .944-.944.944.944 0 0 1-.944.944zm2.567 0a.95.95 0 0 1-.545-.178 2.071 2.071 0 0 0 0-1.532.944.944 0 1 1 .545 1.71z" class="cls-1" data-name="Path 10" transform="translate(-13.259 -16.61)"/>
+        </g>
+    </g>
+</svg>
